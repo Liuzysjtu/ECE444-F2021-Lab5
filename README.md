@@ -39,3 +39,15 @@ We are looking for feedback to improve Education Pathways and make it more usefu
 `./templates:` *contains flask templates for rendering HTML*
 
 `_formhelpers.html course.html       index.html        results.html`
+
+Activity 1:
+![act1](https://raw.githubusercontent.com/Liuzysjtu/ECE444-F2021-Lab5/main/screenshots/repository.png)
+
+Activity 2-5:
+![act2_1](https://raw.githubusercontent.com/Liuzysjtu/ECE444-F2021-Lab5/main/screenshots/Home_Page.png)
+![act2_2](https://raw.githubusercontent.com/Liuzysjtu/ECE444-F2021-Lab5/main/screenshots/Form.png)
+![act2_3](https://raw.githubusercontent.com/Liuzysjtu/ECE444-F2021-Lab5/main/screenshots/Results_Table.png)
+
+Activity 6:
+in old style, for home page, the search item is just in plain text and doesn't look like a form
+in new style, there is border around the search form nad each item displays clearly and beautiful
